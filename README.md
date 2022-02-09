@@ -6,5 +6,5 @@
 
 
 ```math
-$$\frac{\sigma}{\sqrt{n}}$$
+https://lichess.org/@/KemalAzamat
 ```
