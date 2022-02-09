@@ -6,5 +6,5 @@
 
 
 ```math
-$SE = \frac{\sigma}{\sqrt{n}}$
+$$\frac{\sigma}{\sqrt{n}}$$
 ```
