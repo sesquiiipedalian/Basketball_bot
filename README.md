@@ -6,5 +6,6 @@
 
 
 ```math
-https://lichess.org/@/KemalAzamat
+\textbf{Email:} \href{mailto:stadima35@gmail.com}{\underline{stadima35@gmail.com}}\vspace{1px} \\
+
 ```
